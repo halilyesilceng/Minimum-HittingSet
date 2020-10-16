@@ -1,0 +1,7 @@
+C:\Users\ASUS\source\repos\180601003HalilYesil\180601003HalilYesil\bin\Debug\180601003HalilYesil.exe.config
+C:\Users\ASUS\source\repos\180601003HalilYesil\180601003HalilYesil\bin\Debug\180601003HalilYesil.exe
+C:\Users\ASUS\source\repos\180601003HalilYesil\180601003HalilYesil\bin\Debug\180601003HalilYesil.pdb
+C:\Users\ASUS\source\repos\180601003HalilYesil\180601003HalilYesil\obj\Debug\180601003HalilYesil.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\180601003HalilYesil\180601003HalilYesil\obj\Debug\180601003HalilYesil.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\180601003HalilYesil\180601003HalilYesil\obj\Debug\180601003HalilYesil.exe
+C:\Users\ASUS\source\repos\180601003HalilYesil\180601003HalilYesil\obj\Debug\180601003HalilYesil.pdb
